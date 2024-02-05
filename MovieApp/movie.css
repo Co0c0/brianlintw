@@ -11,6 +11,11 @@ body{
 
 h3{
     font-family: 'Protest Revolution', sans-serif;
+    text-align: center;
+    background-color: #f3c26e;
+    border-style: inset;
+    border-color: #f5cf8e;
+    border-radius: 5px;
 }
 
 .topnav{
